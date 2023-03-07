@@ -1,0 +1,30 @@
+body {
+    margin: 0 !important;
+    padding: 0 !important;
+
+}
+
+.banner {
+    border: 1px solid red;
+    height: 50%;
+    width: 100%;
+    background: url("https://img.freepik.com/free-photo/smiling-gilr-is-looking-left-by-putting-hands-head-white-background_176474-117592.jpg?w=996&t=st=1678179686~exp=1678180286~hmac=7166d642f3014514cfe1d54cb3cbacf416d147da1bd4688b7bf483388a7b219c");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+
+.about-sign-in {
+    display: flex;
+
+}
+
+.about {
+    padding: 15px;
+    border: 1px solid red;
+}
+
+.sign {
+    padding: 15px;
+    border: 1px solid red;
+}
